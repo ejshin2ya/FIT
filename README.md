@@ -1,4 +1,3 @@
-# ssafit
 
 ## Project setup
 ```
